@@ -1,4 +1,5 @@
-# egra-silabi
+# Silabi
+
 Android application for teaching and assessing syllables.
 
 (For familiar word reading, see https://github.com/elimu-ai/egra-familiar-word-reading)
