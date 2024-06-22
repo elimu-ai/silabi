@@ -1,4 +1,4 @@
-# Silabi
+# Silabi 👂🏽
 
 Android application for teaching and assessing syllables.
 
@@ -8,7 +8,8 @@ Android application for teaching and assessing syllables.
 
 ## Installation
 
-Note: This app depends on the [elimu.ai Content Provider](https://github.com/elimu-ai/content-provider) to be installed.
+> [!IMPORTANT]
+> Note: This app depends on the [elimu.ai Content Provider](https://github.com/elimu-ai/content-provider) to be installed.
 
 ---
 
