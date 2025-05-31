@@ -44,7 +44,7 @@ dependencies {
 
     compile 'org.literacyapp:literacyapp-model:1.1.47'
     compile 'org.literacyapp:contentprovider:1.0.7'
-    compile 'org.greenrobot:greendao:3.2.0'
+    compile 'org.greenrobot:greendao:3.3.0'
     compile 'org.literacyapp.analytics:eventtracker:1.0.3'
 
     compile 'com.android.support:appcompat-v7:23.4.0'
